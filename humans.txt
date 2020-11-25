@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Lee Manalac lee@email.com @lee
 
 # THANKS
 
