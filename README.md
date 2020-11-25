@@ -12,4 +12,6 @@ As stated above, the main purpose it to provide simple examples.
 
 ## Deployment
 
+This is a simple web project, deployment can be on any web server or even local file system
+
 ## How to Contribute
